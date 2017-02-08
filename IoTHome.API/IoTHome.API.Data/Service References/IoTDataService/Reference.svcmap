@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7e328b71-2cff-45e7-8b40-bf5afd361812" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4f06ea8d-2395-4ee7-9ffb-4a155d27eb06" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -19,10 +19,10 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:50197/DataService.svc?singleWsdl" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://34.193.163.157/iot-home-data/DataService.svc?singleWsdl" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="DataService.wsdl" MetadataType="Wsdl" ID="b0722a95-dff7-4797-a530-4a434f77cd1d" SourceId="1" SourceUrl="http://localhost:50197/DataService.svc?singleWsdl" />
+    <MetadataFile FileName="DataService.wsdl" MetadataType="Wsdl" ID="6a88a79c-6217-48cd-9cfc-804d2f0db1f6" SourceId="1" SourceUrl="http://34.193.163.157/iot-home-data/DataService.svc?singleWsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
