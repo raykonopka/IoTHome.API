@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTHome.API.Service", "IoTHome.API.Service\IoTHome.API.Service.csproj", "{E6B733A1-9A80-4FD1-8736-982E6E69FA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTHome.API.Data", "IoTHome.API.Data\IoTHome.API.Data.csproj", "{612F92DF-7A74-48BE-9E16-B6ACAA8CB848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B733A1-9A80-4FD1-8736-982E6E69FA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B733A1-9A80-4FD1-8736-982E6E69FA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B733A1-9A80-4FD1-8736-982E6E69FA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B733A1-9A80-4FD1-8736-982E6E69FA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612F92DF-7A74-48BE-9E16-B6ACAA8CB848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612F92DF-7A74-48BE-9E16-B6ACAA8CB848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612F92DF-7A74-48BE-9E16-B6ACAA8CB848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612F92DF-7A74-48BE-9E16-B6ACAA8CB848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
